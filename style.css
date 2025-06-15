@@ -1,0 +1,54 @@
+h1{
+    font-size: 30pt;
+    color:green;
+    background-color: ;
+    padding:10px;
+}
+.button{
+    text-align: center;
+}
+.button1{
+    background-color: burlywood;
+    text-align: center;
+    padding:30px;
+    color: red;
+    border-radius: 100px;
+}
+.button2{
+    background-color:green;
+    text-align: center;
+      padding:30px;
+      color: maroon;
+      border-radius:100px;
+}
+.button3{
+    background-color: mediumvioletred;
+    text-align: center;
+      padding:30px;
+      color: darkblue;
+      border-radius:100px;
+}
+
+body{
+    background-image: url(/20250602_165441.jpg);
+    background-size:cover;
+    background-repeat:repeat;
+
+}
+.bg-video{
+    position:fixed;
+    top:0;
+    left:0;
+    min-width:100%;
+    min-height:100%;
+    background-size:cover;
+    z-index:-1;
+    position:relative;
+}
+footer{
+    background-color: cadetblue;
+    padding: 5px;
+}
+img{
+    float: left;
+}
